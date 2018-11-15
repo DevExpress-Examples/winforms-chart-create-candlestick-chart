@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/CandleStickChart/Form1.cs) (VB: [Form1.vb](./VB/CandleStickChart/Form1.vb))
+* [Program.cs](./CS/CandleStickChart/Program.cs) (VB: [Program.vb](./VB/CandleStickChart/Program.vb))
+<!-- default file list end -->
 # How to create a Candlestick chart
 
 
